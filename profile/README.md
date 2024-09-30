@@ -1,6 +1,8 @@
 # 👋 Welcome to Worldline Acquiring
 As a PSP/NSP/FO you want direct access to the Acquiring processing capabilities offered by Worldline though an easy to use API and set of SDKs. Here you will find wat you need to easily get processing quickly.
 
+> Note: The current version of the Acquiring API and its SDKs are not yet stable. Subsequent releases may introduce breaking changes. Please wait until version 1.0.0 is released before using this SDK in production.
+
 This page contains Links to our repositories and other relevant sites.
 
 ## 📜 Useful resources for Worldline Acquiring
