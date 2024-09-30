@@ -11,7 +11,7 @@ This page contains Links to our repositories and other relevant sites.
 - [Getting started](https://docs.acquiring.worldline-solutions.com/getting-started/)
 
 [⬆Go to the top](#top)
-## 👩‍💻 SDK Repositories
+## 👩‍💻 Worldline Acquiring SDK Repositories
 
 - [Java SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-java)
 - [PHP SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-php)
