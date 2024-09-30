@@ -13,13 +13,13 @@ This page contains Links to our repositories and other relevant sites.
 [⬆Go to the top](#top)
 ## 👩‍💻 SDK Repositories
 
-[Java](https://github.com/Worldline-Acquiring/acquiring-sdk-java)
-[PHP](https://github.com/Worldline-Acquiring/acquiring-sdk-php)
-[Node.js](https://github.com/Worldline-Acquiring/acquiring-sdk-nodejs)
-[.NET](https://github.com/Worldline-Acquiring/acquiring-sdk-dotnet)
-[Python](https://github.com/Worldline-Acquiring/acquiring-sdk-python)
-[Ruby](https://github.com/Worldline-Acquiring/acquiring-sdk-ruby)
-[Go](https://github.com/Worldline-Acquiring/acquiring-sdk-go)
+- [Java SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-java)
+- [PHP SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-php)
+- [Node.js SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-nodejs)
+- [.NET SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-dotnet)
+- [Python SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-python)
+- [Ruby SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-ruby)
+- [Go SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-go)
 
 [⬆Go to the top](#top)
 
