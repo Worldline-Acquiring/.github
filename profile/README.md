@@ -41,7 +41,7 @@ Easily navigate to the right solution using our [overview of all solutions](http
 |:--- |:--- | 
 | [SmartPOS & Tap on Mobile](https://docs.smartpos.worldline-solutions.com/) | Develop frictionless point of sale experiences |
 
-### Worldline solutions for Financial Institutions
+### Other Worldline solutions for Financial Institutions
 | Solution | Description | Links |
 |:--- |:--- |:--- |
 | Acquiring | You want to offer a merchant Acquiring solution to your clients based on your acquiring license | [Overview](https://financial-services.developer.worldline.com/acquiring-overview) <br />[Product overview](https://financial-services.developer.worldline.com/acquiring/documentation?page=/acquiring) |
