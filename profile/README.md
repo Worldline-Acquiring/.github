@@ -9,10 +9,8 @@ This page contains Links to our repositories and other relevant sites.
 
 - [Developer portal](https://docs.acquiring.worldline-solutions.com/)
 - [API reference](https://docs.acquiring.worldline-solutions.com/api-reference/)
-- [Developer tools](https://docs.acquiring.worldline-solutions.com/developer-tools/)
 - [Getting started](https://docs.acquiring.worldline-solutions.com/getting-started/)
 
-[⬆Go to the top](#top)
 ## 👩‍💻 Worldline Acquiring SDK Repositories
 
 - [Java SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-java)
@@ -23,37 +21,32 @@ This page contains Links to our repositories and other relevant sites.
 - [Ruby SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-ruby)
 - [Go SDK](https://github.com/Worldline-Acquiring/acquiring-sdk-go)
 
-[⬆Go to the top](#top)
 
-## 🌌 Useful links for other Worldline products 
-[Overview of all solutions](https://developer.worldline.com)
+## 🌌 Other Worldline solutions 
+
+Easily navigate to the right solution using our [overview of all solutions](https://developer.worldline.com).
 
 ### Other Worldline solutions for merchants
-Accept online payments
-- Enterprise
-  - [Global Collect](https://docs.connect.worldline-solutions.com/)
-- European SMB business - Worldline Global Online Pay
-  - [Global Online Pay](https://docs.direct.worldline-solutions.com/en/index)
-- Regional SMB business
-  - [Switzerland - Saferpay](https://worldline.com/de-ch/home/top-navigation/developers/e-commerce-developer/developer.html)
+#### Accept online payments
+| Solution | Description |
+|:--- |:--- | 
+| [Global Collect](https://docs.connect.worldline-solutions.com/) | Global Collect is a global payment service provider offering its payment services to large online merchants through its Connect API | 
+| [Global Online Pay](https://docs.direct.worldline-solutions.com/en/index) | Global Online Pay is a pan-european payment service provider offering its payment services to small and large merchants through its Direct API | 
+| [Saferpay](https://worldline.com/de-ch/home/top-navigation/developers/e-commerce-developer/developer.html) | Saferpay is a Swiss payment service provider offering its payment services to small and large merchants | 
+| [TravelHub](https://docs.travel.worldline-solutions.com/) | | 
+| [Payment&nbsp;Orchestration](https://docu-portal-test.paymentiq.io/) | | 
 
-Accept instore payments
-- [SmartPOS](https://docs.smartpos.worldline-solutions.com/)
+#### Accept in person payments
+| Solution | Description |
+|:--- |:--- | 
+| [SmartPOS & Tap on Mobile](https://docs.smartpos.worldline-solutions.com/) | Develop frictionless point of sale experiences |
 
 ### Worldline solutions for Financial Institutions
- Acquiring 
-- [Overview](https://financial-services.developer.worldline.com/acquiring-overview)
-- [Product overview](https://financial-services.developer.worldline.com/acquiring/documentation?page=/acquiring)
- 
- Issuing
-- [Overview](https://financial-services.developer.worldline.com/issuing-overview)
-
- Open banking
-- [Overview](https://financial-services.developer.worldline.com/open-banking/documentation?page=/node/240)
- 
- Digital services
-- [Identification & Authentication](https://financial-services.developer.worldline.com/ita-overview)
-- [Digital asset management](https://financial-services.developer.worldline.com/dam-overview)
-- [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
+| Solution | Description | Links |
+|:--- |:--- |:--- |
+| Acquiring | You want to offer a merchant Acquiring solution to your clients based on your acquiring license | [Overview](https://financial-services.developer.worldline.com/acquiring-overview) <br />[Product overview](https://financial-services.developer.worldline.com/acquiring/documentation?page=/acquiring) |
+| Issuing | You want to issue cards to your clients based on your issuing license | [Overview](https://financial-services.developer.worldline.com/issuing-overview) |
+| Open banking | Products and services to provide access to account data and initiate payments | [Overview](https://financial-services.developer.worldline.com/open-banking/documentation?page=/node/240) |
+| Digital services | Various digital services that help you to run your business | [Identification&nbsp;&&nbsp;Authentication](https://financial-services.developer.worldline.com/ita-overview) <br />  [Digital asset management](https://financial-services.developer.worldline.com/dam-overview)<br />[Stock data market overview](https://financial-services.developer.worldline.com/smd-overview) |
 
 [⬆Go to the top](#top)
